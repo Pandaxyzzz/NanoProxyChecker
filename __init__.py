@@ -65,9 +65,8 @@ with open(proxylist, 'r') as file:
                 print(f'{good} {proxy}')
                 hits.append(proxy)
                 proxy_hit = proxy.split('http://')
-                f = open('hits.txt', 'w')
-                f.write(f'{proxy_hit[1]}\n')
-                f.close()
+                with open('hits.txt', 'a') as f:
+                    f.write(f'{proxy_hit[1]}\n')
         except:
             print(f'{bad} {proxy}')
 
