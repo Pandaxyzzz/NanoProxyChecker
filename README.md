@@ -19,6 +19,12 @@
 
 `git clone https://github.com/Pandaxyzzz/NanoProxyChecker.git`
 
+`cd NanoProxyChecker`
+
+`pip install -r requirements.txt` [raw](https://raw.githubusercontent.com/Pandaxyzzz/NanoProxyChecker/main/requirements.txt)
+
+`python __init__.py`
+
 ## Image
 
 <img src="https://user-images.githubusercontent.com/98690785/220116869-7a0e50b7-ee0d-4ba5-9e6f-88a2ac8bbd91.png" height="340px"> 
