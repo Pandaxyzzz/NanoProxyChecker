@@ -11,9 +11,9 @@
 <div align="left">
 
 ## Features
-- 🚀‣ Quick and continuous check
-- ⚡‣ Simple
-- ✏️‣ It has an autosave system for functional proxies
+- ⌈ 🤗 ⌋ × Useful and easy to use tool
+- ⌈ 🚀 ⌋ × Fast and effective
+- ⌈ ✏️ ⌋ × Constant updates
 
 ## Install
 
