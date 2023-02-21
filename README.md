@@ -12,7 +12,7 @@
 
 ## Features
 - 🚀‣ Quick and continuous check
-- 💀‣ Pretty and aesthetic
+- ⚡‣ Simple
 - ✏️‣ It has an autosave system for functional proxies
 
 ## Install
