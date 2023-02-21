@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/98690785/220115806-fff0a493-e195-4092-9303-94241112bc8d.jpg">
+<img src="https://user-images.githubusercontent.com/98690785/220455047-f027fba3-28b3-4c6b-8987-d431a09db61a.png">
 
 <h1> Nano Proxy Checker 👾 </h1>
 
