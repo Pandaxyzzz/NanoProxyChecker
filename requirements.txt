@@ -2,3 +2,4 @@ fade
 requests
 pystyle
 colorama
+pyfiglet
