@@ -2,9 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/98690785/220455047-f027fba3-28b3-4c6b-8987-d431a09db61a.png">
 
+
+
 [𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦](#features) •  [𝗜𝗡𝗦𝗧𝗔𝗟𝗟](#install) • [𝗖𝗔𝗣𝗧𝗨𝗥𝗘](#image)
   
-<h1> Nano Proxy Checker 👾 </h1>
+# 𝙽𝙿𝙲
    
 *Is a proxy checker made in Python.*
 
@@ -17,6 +19,8 @@
 - ⌈ 🚀 ⌋ × Fast and effective
 - ⌈ ✏️ ⌋ × Constant updates
 
+go to [top](#𝙽𝙿𝙲)
+
 ## Install
 
 `git clone https://github.com/Pandaxyzzz/NanoProxyChecker.git`
@@ -27,8 +31,10 @@
 
 `python __init__.py`
 
+go to [top](#𝙽𝙿𝙲)
 ## Image
 
 <img src="https://user-images.githubusercontent.com/98690785/220116869-7a0e50b7-ee0d-4ba5-9e6f-88a2ac8bbd91.png" height="340px"> 
 
+go to [top](#𝙽𝙿𝙲)
 </div>
