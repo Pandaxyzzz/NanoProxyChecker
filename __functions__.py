@@ -1,5 +1,6 @@
 import os
 
+
 class Utils(object):
     @staticmethod
     def clear() -> None:
