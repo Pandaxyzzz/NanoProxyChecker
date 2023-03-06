@@ -15,10 +15,10 @@
 <div align="left">
 
 ## Features
-- ⌈ 🤗 ⌋ × Useful and easy to use tool
-- ⌈ 🚀 ⌋ × Fast and effective
-- ⌈ ✏️ ⌋ × Constant updates
-
+- ⋅ 🔧 › Useful and easy to use tool
+- ⋅ 🚀 › Fast and effective
+- ⋅ 📋 › Constant updates
+  
 go to [top](#𝙽𝙿𝙲)
 
 ## Install
